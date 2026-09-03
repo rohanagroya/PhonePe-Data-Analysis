@@ -1,4 +1,4 @@
-# PhonePe End-to-End Data Analysis
+# PhonePe Data Analysis
 
 An end-to-end data analytics project built using Python, Pandas, MySQL, SQL, and Power BI to analyze PhonePe transaction and service data.
 
